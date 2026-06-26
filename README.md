@@ -1,5 +1,4 @@
-# 💰 SmartFinance AI
-
+# 💰 smart-budget-advisor
 An AI-powered Personal Finance Assistant that helps users manage income, expenses, savings goals, and receive intelligent budgeting recommendations.
 
 ## 🌐 Live Demo
