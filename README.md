@@ -11,6 +11,10 @@ AI-powered personal finance & cash flow planning
 # 💰 Smart-Budget-Advisor
 An AI-powered Personal Finance Assistant that helps users manage income, expenses, savings goals, and receive intelligent budgeting recommendations.
 
+## 💡 Why I Built This
+
+Managing personal finances can be challenging without clear insights. I built Smart Budget Advisor to help users understand their spending habits, monitor savings, and receive AI-powered budgeting recommendations through an intuitive web interface.
+
 ## 🌐 Live Demo
 
 🔗 https://personal-finance-assistant-524395434699.europe-west2.run.app
@@ -68,3 +72,12 @@ An AI-powered Personal Finance Assistant that helps users manage income, expense
 ## 👨‍💻 Author
 
 Rahul Anil Kumar
+
+## 📬 Contact
+
+LinkedIn:
+www.linkedin.com/in/
+rahul-anil-kumar
+
+GitHub:
+https://github.com/rahulgokulamanchal-spec
