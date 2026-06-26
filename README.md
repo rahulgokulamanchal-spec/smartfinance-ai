@@ -15,7 +15,23 @@ An AI-powered Personal Finance Assistant that helps users manage income, expense
 
 🔗 https://personal-finance-assistant-524395434699.europe-west2.run.app
 
----
+## 📸 Application Preview
+
+### Home
+
+![Home](assets/home.png)
+
+### Analytics
+
+![Analytics](assets/analytics.png)
+
+### AI Advice
+
+![AI Advice](assets/ai-advice.png)
+
+### Savings Goal
+
+![Savings Goal](assets/savings-goal.png)
 
 ## ✨ Features
 
