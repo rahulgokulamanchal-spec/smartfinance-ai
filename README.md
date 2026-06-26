@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/logo.png" width="120" alt="Smart Budget Advisor Logo">
+</p>
+
+<h1 align="center">Smart Budget Advisor</h1>
+
+<p align="center">
+AI-powered personal finance & cash flow planning
+</p>
 
 # 💰 Smart-Budget-Advisor
 An AI-powered Personal Finance Assistant that helps users manage income, expenses, savings goals, and receive intelligent budgeting recommendations.
